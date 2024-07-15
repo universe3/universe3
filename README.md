@@ -1,8 +1,7 @@
 Hi there! 👋 I'm Satyam
 🎓 Education
 Bachelor of Technology in Computer Science
-💻 Skills
-Programming Languages: Python, C,C#, C++
+💻 Skills: Programming Languages: Python, C,C#, C++
 Web Development: HTML, CSS, JavaScript, React
 Database Management: SQL, MongoDB
 Tools & Platforms: Git, GitHub, Docker, Linux
