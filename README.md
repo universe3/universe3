@@ -20,7 +20,9 @@ Advanced Machine Learning Techniques
 Cloud Computing with AWS
 
 📫 How to Reach Me-
-Email:satyamgupta97180@gmail.com LinkedIn:www.linkedin.com/in/satyamgupta-0b0637294
+Email:satyamgupta97180@gmail.com 
+
+LinkedIn:www.linkedin.com/in/satyamgupta-0b0637294
 
 youtube: https://www.youtube.com/@The_AI_gUi
 
