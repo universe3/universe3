@@ -1,4 +1,4 @@
-byHi there! 👋 I'm Satyam
+Hi there! 👋 I'm Satyam
 🎓 Education
 Bachelor of Technology in Computer Science
 
