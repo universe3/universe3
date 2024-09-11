@@ -31,7 +31,9 @@ youtube: https://www.youtube.com/@The_AI_gUi
 GitHub: https://github.com/universe3
 
 instagram: https://www.instagram.com/the_ai_guy9?igsh=YXRubmt5MXU1aTM1
+
 🚀 Fun Fact-
 
 I balance my passion for technology with a disciplined regimen of judo training, embodying both mental and physical strength.- 👋 Hi, I’m satyam 
+
 - 😄 Pronouns: he/him.
