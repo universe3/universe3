@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Satyam
+byHi there! 👋 I'm Satyam
 🎓 Education
 Bachelor of Technology in Computer Science
 💻 Skills: Programming Languages: Python, C,C#, C++
@@ -11,7 +11,7 @@ Judo Player: Active participant in judo tournaments and committed to maintaining
 Advanced Machine Learning Techniques
 Cloud Computing with AWS
 📫 How to Reach Me-
-        Email:satyamgupta97180@gmail.com LinkedIn:www.linkedin.com/in/satyam- gupta-0b0637294
+        Email:satyamgupta97180@gmail.com LinkedIn:www.linkedin.com/in/satyamgupta-0b0637294
 youtube: https://www.youtube.com/@The_AI_gUi
 GitHub: https://github.com/universe3
 🚀 Fun Fact-
