@@ -14,6 +14,7 @@ Cloud Computing with AWS
         Email:satyamgupta97180@gmail.com LinkedIn:www.linkedin.com/in/satyamgupta-0b0637294
 youtube: https://www.youtube.com/@The_AI_gUi
 GitHub: https://github.com/universe3
+instagram: https://www.instagram.com/the_ai_guy9?igsh=YXRubmt5MXU1aTM1
 🚀 Fun Fact-
 I balance my passion for technology with a disciplined regimen of judo training, embodying both mental and physical strength.- 👋 Hi, I’m satyam 
 - 😄 Pronouns: he/him.
