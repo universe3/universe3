@@ -1,5 +1,6 @@
 Hi there! 👋 I'm Satyam
-🎓 Education
+
+🎓 Education:
 Bachelor of Technology in Computer Science
 
 💻 Skills: 
