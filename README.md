@@ -1,16 +1,19 @@
 Hi there! 👋 I'm Satyam
 
+🚀 Founder of THE AI👽GUY🤖 🧠💡
+lets join private community: https://www.linkedin.com/groups/14611075/ 
+
 🎓 Education:
 Bachelor of Technology in Computer Science
 
 💻 Skills: 
-Programming Languages: Python, C,C#, C++
+Programming Languages: Python, C,C#, C++, Html, CSS, JavaScript 
 
-Web Development: HTML, CSS, JavaScript, React
+Web Development: HTML, CSS, JavaScript, React, nodejs, Pug, Express
 
 Database Management: SQL, MongoDB
 
-Tools & Platforms: Git, GitHub, Docker, Linux
+Tools & Platforms: Git, GitHub, Docker, Kali linux, Ubntu, Windows, ParrotOS
 
 🥋 Judo Enthusiast
 Judo Player: Active participant in judo tournaments and committed to maintaining peak physical fitness.
@@ -21,10 +24,11 @@ Cloud Computing with AWS
 
 📫 How to Reach Me-
 
-
 Email:satyamgupta97180@gmail.com 
 
 LinkedIn:www.linkedin.com/in/satyamgupta-0b0637294
+
+Linkedin: https://www.linkedin.com/groups/14611075/ 
 
 youtube: https://www.youtube.com/@The_AI_gUi
 
