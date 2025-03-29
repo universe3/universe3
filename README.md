@@ -1,6 +1,7 @@
 Hi there! 👋 I'm Satyam
 
 🚀 Founder of THE AI👽GUY🤖 🧠💡
+
 lets join private community: https://www.linkedin.com/groups/14611075/ 
 
 🎓 Education:
