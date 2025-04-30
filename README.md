@@ -2,8 +2,6 @@ Hi there! 👋 I'm Satyam
 
 🚀 Founder of THE AI👽GUY🤖 🧠💡
 
-lets join private community: https://www.linkedin.com/groups/14611075/ 
-
 🎓 Education:
 Bachelor of Technology in Computer Science
 
@@ -28,8 +26,6 @@ Cloud Computing with AWS
 Email:satyamgupta97180@gmail.com 
 
 LinkedIn:www.linkedin.com/in/satyamgupta-0b0637294
-
-Linkedin: https://www.linkedin.com/groups/14611075/ 
 
 youtube: https://www.youtube.com/@The_AI_gUi
 
