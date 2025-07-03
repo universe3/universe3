@@ -12,6 +12,8 @@ Web Development: HTML, CSS, JavaScript, React, nodejs, Pug, Express
 
 Database Management: SQL, MongoDB
 
+A professional Web Scrapper and Bug Hunter.
+
 Tools & Platforms: Git, GitHub, Docker, Kali linux, Ubntu, Windows, ParrotOS
 
 🥋 Judo Enthusiast
