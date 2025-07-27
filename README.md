@@ -8,11 +8,11 @@ Bachelor of Technology in Computer Science
 💻 Skills: 
 Programming Languages: Python, C,C#, C++, Html, CSS, JavaScript 
 
-Web Development: HTML, CSS, JavaScript, React, nodejs, Pug, Express
+Web Development: HTML, CSS, Tailwind, Bootstrap, JavaScript, React, nodejs, Pug, Express
 
 Database Management: SQL, MongoDB
 
-A professional Web Scrapper and Bug Hunter.
+A professional Full Stack Developer, Web Scrapper and Bug Hunter.
 
 Tools & Platforms: Git, GitHub, Docker, Kali linux, Ubntu, Windows, ParrotOS
 
